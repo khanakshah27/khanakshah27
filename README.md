@@ -1,6 +1,5 @@
 ## Hi there, it's Khanak 👋
 
-Data wrangler & ML adventurer ;)
 Turning numbers into insights and models into magic ✨
 
 ## Connect with me
