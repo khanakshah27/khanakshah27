@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there, it's Khanak 👋
 
 <!--
 **khanakshah27/khanakshah27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack:
+Python, Java, C, C++, JavaScript, HTML, CSS, SQL, Dart, React.js, Bootstrap, Flask, Flutter, TensorFlow, Neural Networks, Deep Learning, Natural Processing Language (NLP) , GenAI, NumPy, Pandas, Matplotlib, Seaborn, R, MATLAB
+
+<img width="468" height="54" alt="image" src="https://github.com/user-attachments/assets/acf4a874-23f9-4cc8-b877-8424601472c2" />
 
 Here are some ideas to get you started:
 
