@@ -1,5 +1,13 @@
 ## Hi there, it's Khanak 👋
 
+Data wrangler & ML adventurer ;)
+Turning numbers into insights and models into magic ✨
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khanak%20Shah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanak-shah-206a94284/)
+
+
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
