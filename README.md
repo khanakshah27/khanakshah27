@@ -1,4 +1,4 @@
-## Hi there, it's Khanak 👋
+## Hi there, it's Khanak :)
 
 <p align="center" style="margin-bottom: 5px;">
   <img 
