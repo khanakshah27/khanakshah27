@@ -3,7 +3,7 @@
 Turning numbers into insights and models into magic ✨
 <p align="center" style="margin-bottom: 5px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Welcome%20to%20My%20Dev%20Corner&fontSize=56&fontColor=FFFFFFCC&animation=fadeIn&color=0:FF9AA2,50:FFB7C5,100:FFD1DC" 
+   src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Welcome%20to%20My%20Code%20Corner&fontSize=56&fontColor=FFFFFFCC&animation=fadeIn&color=0:FF9AA2,50:FFB7C5,100:FFD1DC" 
     alt="Header"
   />
 </p>
