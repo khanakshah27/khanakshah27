@@ -10,11 +10,12 @@ Turning numbers into insights and models into magic ✨
 
 <p align="center">
   <img 
-    src="https://media.tenor.com/4DdTWjE5vzIAAAAC/coding-programming-pink-panther.gif"
-    alt="Pink coding animation"
+    src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif"
+    alt="Cute typing terminal animation"
     width="500"
   />
 </p>
+
 
 ## Connect with me
 
