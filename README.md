@@ -10,9 +10,9 @@ Turning numbers into insights and models into magic ✨
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif"
-    alt="Cute typing terminal animation"
-    width="500"
+    src="https://media.giphy.com/media/3o6Zt8zb1B0jlHNdMQ/giphy.gif"
+    alt="Girly girl coding GIF"
+    width="450"
   />
 </p>
 
