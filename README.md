@@ -3,16 +3,16 @@
 Turning numbers into insights and models into magic ✨
 <p align="center" style="margin-bottom: 5px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Welcome%20to%20My%20Code%20Space&fontSize=56&fontColor=FFFFFFCC&animation=fadeIn&color=0:6A5ACD,50:8A7CFB,100:B9A7FF" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Welcome%20to%20My%20Code%20Corner&fontSize=56&fontColor=FFFFFFCC&animation=fadeIn&color=0:FF9AA2,50:FFB7C5,100:FFD1DC" 
     alt="Header"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Cute computer science animation"
-    width="500"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z6eTh3Y2t4b2l5bThnN2ZkdzZ3NnVydGx0b2VqM2k5b3B2eG5xZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" 
+    alt="Cute pink coding girl animation"
+    width="480"
   />
 </p>
 
