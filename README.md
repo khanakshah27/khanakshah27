@@ -10,12 +10,11 @@ Turning numbers into insights and models into magic ✨
 
 <p align="center">
   <img 
-    src="https://media.tenor.com/YZPnGuPeZv8AAAAC/anime-girl-computer.gif"
-    alt="Girly coding aesthetic"
+    src="./assets/terminal.gif"
+    alt="Cute coding gif"
     width="450"
   />
 </p>
-
 
 
 
