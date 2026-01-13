@@ -53,6 +53,23 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 📊 GitHub Stats
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanakshah27&theme=radical" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanakshah27&theme=radical" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanakshah27&theme=radical" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanakshah27&theme=radical" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanakshah27&theme=radical&utcOffset=5.5" />
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=khanakshah27&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="169em" src="https://streak-stats.demolab.com?user=khanakshah27&theme=radical" />
+</div>
+
+<br/>
+
+# 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=khanakshah27&theme=dracula&no-frame=false&margin-w=4" />
+</div>
 
 
 
