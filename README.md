@@ -53,10 +53,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khanakshah27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khanakshah27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanakshah27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=khanakshah27&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=khanakshah27&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanakshah27&layout=compact&theme=dark&langs_count=8)
 
 
 
