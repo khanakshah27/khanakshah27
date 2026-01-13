@@ -66,10 +66,6 @@
 
 <br/>
 
-# 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=khanakshah27&theme=dracula&no-frame=false&margin-w=4" />
-</div>
 
 
 
