@@ -53,7 +53,16 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AaryanCode69&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AaryanCode69&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanCode69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:B38CB4,50:E2A1B5,100:F3B28C)
 
 
 
