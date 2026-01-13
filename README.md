@@ -65,7 +65,6 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:B38CB4,50:E2A1B5,100:F3B28C)
 
 
 
