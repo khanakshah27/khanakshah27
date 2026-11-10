@@ -1,13 +1,13 @@
 ## Hi there, it's Khanak :)
 
 <p align="center">
-  <img src="./assets/pixel-banner.svg" alt="Vanishing gradients, exploding to-do list." width="100%"/>
+  <img src="./assets/pixel-banner.svg" alt="My jokes are overfit, funny only on the training set." width="100%"/>
 </p>
 
 <p align="center">
   <img 
     src="./assets/terminal.gif"
-    alt="Cute coding gif"
+    alt="My jokes are overfit, funny only on the training set."
     width="450"
   />
 </p>
