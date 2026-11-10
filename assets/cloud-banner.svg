@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Built in the cloud, observed at every layer">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b2350"/><stop offset=".55" stop-color="#5b4a9a"/><stop offset="1" stop-color="#b79ce0"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" x2="1"><stop offset="0" stop-color="#e9ddff" stop-opacity=".15"/><stop offset=".5" stop-color="#e9ddff" stop-opacity=".9"/><stop offset="1" stop-color="#e9ddff" stop-opacity=".15"/></linearGradient>
+    <path id="cl" d="M30 60a26 26 0 0 1 14-48a38 38 0 0 1 72-6a30 30 0 0 1 36 40a22 22 0 0 1-8 14z"/>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="c"><rect width="1000" height="280" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="280" fill="url(#sky)"/>
+    <!-- drifting clouds -->
+    <g fill="#fff">
+      <use href="#cl" opacity=".2" transform="translate(0 150) scale(1.5)"><animateTransform attributeName="transform" type="translate" additive="sum" values="-200 0;1100 0" dur="90s" begin="-40s" repeatCount="indefinite"/></use>
+      <use href="#cl" opacity=".26" transform="translate(500 125) scale(1.1)"><animateTransform attributeName="transform" type="translate" additive="sum" values="-700 0;700 0" dur="70s" begin="-30s" repeatCount="indefinite"/></use>
+      <use href="#cl" opacity=".15" transform="translate(200 -10) scale(1.9)"><animateTransform attributeName="transform" type="translate" additive="sum" values="-400 0;900 0" dur="120s" begin="-60s" repeatCount="indefinite"/></use>
+    </g>
+    <!-- title -->
+    <text x="500" y="82" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="44" fill="#fff">Built in the cloud. Observed at every layer.</text>
+    <text x="500" y="112" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#e9ddff">DISTRIBUTED SYSTEMS  ·  OBSERVABILITY  ·  MACHINE LEARNING</text>
+    <!-- trace -->
+    <line x1="120" y1="205" x2="880" y2="205" stroke="#e9ddff" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#fff" text-anchor="middle">
+      <g transform="translate(120 205)"><circle r="9" fill="#2b2350" stroke="#e9ddff"/><text y="30">client</text></g>
+      <g transform="translate(373 205)"><circle r="9" fill="#2b2350" stroke="#e9ddff"/><text y="30">edge</text></g>
+      <g transform="translate(627 205)"><circle r="9" fill="#2b2350" stroke="#e9ddff"/><text y="30">service mesh</text></g>
+      <g transform="translate(880 205)"><circle r="9" fill="#2b2350" stroke="#e9ddff"/><text y="30">data store</text></g>
+    </g>
+    <!-- node pulses as the packet passes -->
+    <g fill="none" stroke="#fff">
+      <circle cx="120" cy="205" r="9"><animate attributeName="r" values="9;26" dur="6s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;0" keyTimes="0;.18;1" dur="6s" begin="0s" repeatCount="indefinite"/></circle>
+      <circle cx="373" cy="205" r="9"><animate attributeName="r" values="9;26" dur="6s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;0" keyTimes="0;.18;1" dur="6s" begin="1.9s" repeatCount="indefinite"/></circle>
+      <circle cx="627" cy="205" r="9"><animate attributeName="r" values="9;26" dur="6s" begin="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;0" keyTimes="0;.18;1" dur="6s" begin="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="880" cy="205" r="9"><animate attributeName="r" values="9;26" dur="6s" begin="4.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;0" keyTimes="0;.18;1" dur="6s" begin="4.5s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- request packet -->
+    <g>
+      <circle r="9" fill="#fff" opacity=".55" filter="url(#glow)"/><circle r="4.5" fill="#fff"/>
+      <animateMotion dur="6s" repeatCount="indefinite" path="M120 205 L880 205" keyPoints="0;1;1" keyTimes="0;.75;1" calcMode="linear"/>
+    </g>
+  </g>
+</svg>
