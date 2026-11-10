@@ -1,7 +1,7 @@
 ## Hi there, it's Khanak :)
 
 <p align="center">
-  <img src="./assets/pixel-banner.svg" alt="Khanak Shah: I'm not stubborn, I'm overfitting. My training data was just convincing." width="100%"/>
+  <img src="./assets/pixel-banner.svg" alt="Khanak Shah: Attention is all you need. My sleep schedule never converged." width="100%"/>
 </p>
 
 <p align="center">
