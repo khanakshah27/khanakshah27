@@ -1,13 +1,13 @@
 ## Hi there, it's Khanak :)
 
 <p align="center">
-  <img src="./assets/pixel-banner.svg" alt="My jokes are overfit, funny only on the training set." width="100%"/>
+  <img src="./assets/pixel-banner-2.svg" alt="Backpropagating my way through every Monday." width="100%"/>
 </p>
 
 <p align="center">
   <img 
     src="./assets/terminal.gif"
-    alt="My jokes are overfit, funny only on the training set."
+    alt="Backpropagating my way through every Monday."
     width="450"
   />
 </p>
