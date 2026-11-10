@@ -16,7 +16,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khanak%20Shah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanak-shah-206a94284/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn%20%C2%B7%20Khanak%20Shah-FFC2D4?style=for-the-badge&logo=linkedin&logoColor=5a2a45)](https://www.linkedin.com/in/khanak-shah-206a94284/)
 
 
 ## 🛠️ Tech Stack
