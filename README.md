@@ -1,13 +1,13 @@
 ## Hi there, it's Khanak :)
 
 <p align="center">
-  <img src="./assets/pixel-banner-2.svg" alt="Backpropagating my way through every Monday." width="100%"/>
+  <img src="./assets/pixel-banner-2.svg" alt="Vanishing gradients, exploding to-do list." width="100%"/>
 </p>
 
 <p align="center">
   <img 
     src="./assets/terminal.gif"
-    alt="Backpropagating my way through every Monday."
+    alt="Vanishing gradients, exploding to-do list."
     width="450"
   />
 </p>
