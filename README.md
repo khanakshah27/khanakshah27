@@ -1,7 +1,7 @@
 ## Hi there, it's Khanak :)
 
 <p align="center">
-  <img src="./assets/cloud-banner.svg" alt="Built in the cloud. Observed at every layer." width="100%"/>
+  <img src="./assets/pixel-banner.svg" alt="Khanak Shah: fluent in Python, stargazing, and buying books I won't finish." width="100%"/>
 </p>
 
 <p align="center">
